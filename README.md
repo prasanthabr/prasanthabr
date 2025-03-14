@@ -1,7 +1,7 @@
 ### Hello World! 👋  
-I work on Salesforce.com in my day life.
-Interested in Ruby and Go outside of work.
-I blog at https://prasanthabr.github.io
+I work on Salesforce.com in my day life.  
+Interested in Ruby and Go outside of work.  
+I blog at https://prasanthabr.github.io  
 
 impossible until someone does it.
 
