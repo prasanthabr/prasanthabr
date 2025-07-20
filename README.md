@@ -3,7 +3,7 @@ I work on Salesforce.com in my day life.
 Interested in Ruby and Go outside of work.  
 I blog at https://prasanthabr.github.io  
 
-impossible until someone does it.
+It's impossible until someone does it.
 
 <!--
 **prasanthabr/prasanthabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
